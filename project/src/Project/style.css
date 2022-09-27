@@ -1,0 +1,52 @@
+h2 {
+  float: left;
+  position: relative;
+  letter-spacing: 2px;
+}
+.txts {
+  color: #b80000;
+  font-size: 20px;
+}
+.style {
+  padding-left: 2%;
+}
+.style1 {
+  padding-left: 65%;
+}
+table {
+  width: 100%;
+  text-align: center;
+}
+h3 {
+  text-align: center;
+}
+.style3 {
+  padding-left: 6%;
+}
+.container1 {
+  padding-left: 10%;
+
+  width: 80%;
+  text-align: center;
+}
+.social {
+  letter-spacing: 3%;
+}
+a {
+  color: #b80000;
+  text-decoration: none;
+}
+input:hover {
+  color: brown;
+}
+.name {
+  width: 100%;
+}
+h4 {
+  color: #b80000;
+  font-size: 12px;
+}
+form {
+  width: 100%;
+  text-align: center;
+}
